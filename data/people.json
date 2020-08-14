@@ -1,0 +1,37 @@
+[
+  {
+    "documentType": "RG",
+    "documentNumber": 441087795,
+    "personName": "Joaquim",
+    "email": "fulano@fulano.com",
+    "apartmentId": 111
+  },
+  {
+    "documentType": "RG",
+    "documentNumber": 529480600,
+    "personName": "Antonello Costa Duarte",
+    "email": "teste@teste.com",
+    "apartmentId": 222
+  },
+  {
+    "documentType": "RG",
+    "documentNumber": 529480600,
+    "personName": "Joselito Martinez",
+    "email": "teste@teste.com",
+    "apartmentId": 222
+  },
+  {
+    "documentType": "RG",
+    "documentNumber": 529480600,
+    "personName": "Eduardo Costa Martinez",
+    "email": "teste@teste.com",
+    "apartmentId": 222
+  },
+  {
+    "documentType": "RG",
+    "documentNumber": 529480600,
+    "personName": "Rafaela Martinez",
+    "email": "teste@teste.com",
+    "apartmentId": 222
+  }
+]

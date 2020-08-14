@@ -1,0 +1,26 @@
+[
+  {
+    "blockName": "Coral",
+    "blockCode": 1
+  },
+  {
+    "blockName": "Brisa",
+    "blockCode": 2
+  },
+  {
+    "blockName": "Aqua",
+    "blockCode": 3
+  },
+  {
+    "blockName": "Mar",
+    "blockCode": 4
+  },
+  {
+    "blockName": "Verão",
+    "blockCode": 5
+  },
+  {
+    "blockName": "Ecco",
+    "blockCode": 6
+  }
+]

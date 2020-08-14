@@ -1,0 +1,24 @@
+{
+  "name": "condominium-api",
+  "version": "1.0.0",
+  "description": "provide condominium data, owner, visitor, etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Rudson R.",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-datasource": "^0.7.2",
+    "apollo-datasource-rest": "^0.9.3",
+    "apollo-server": "^2.16.1",
+    "lodash": "^4.17.19",
+    "nodemon": "^2.0.4"
+  },
+  "nodemonConfig": {
+    "env": {
+      "APOLLO_KEY": "service:sessionAPITest:z0QyxRydZItGsH0iQIaENQ"
+    }
+  }
+}

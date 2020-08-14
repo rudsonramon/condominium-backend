@@ -1,0 +1,12 @@
+[
+  {
+    "apartmentId": 111,
+    "people": "J.K. Rowling",
+    "blockName": "Coral"
+  },
+  {
+    "apartmentId": 222,
+    "people": "Michael Crichton",
+    "blockName": "Brisa"
+  }
+]
